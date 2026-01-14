@@ -1,0 +1,78 @@
+@media screen and (max-width:768px) {
+
+main{
+    background-image: url("./imagens/praia-2.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: rgb(0, 0,0.9);
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+
+}
+
+.nav-bar a {
+    text-decoration: none;
+    padding: 0 10px;
+    margin: 0 auto;
+    font-weight: 600;
+    font-size: 16px;
+    transition: 0.5s ease;
+}
+
+.logo h2 {
+    font-size: 16px;
+}
+
+
+.secao-hero {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteudo-hero h1{
+    color: var(--cor-terciaria);
+    font-size: 2.2rem;
+
+}
+
+.conteudo-hero p {
+    color: var(--cor-terciaria);
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-align: justify center; 
+}
+
+
+.conteudo-hero .btn-hero {
+    width: 100%;
+    padding: 10px 15px;
+    background: var(--cor-secundaria);
+    font-weight: 600;
+    color: var(--cor-terciaria);
+    margin-bottom: 20px;
+    font-size: 16px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.conteudo-viagens h1 {
+    text-align: center;
+    color: var(--cor-secundaria);
+    font-weight: bold;
+    font-size: 2.4em;
+}
+
+.imagem-viagens {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 5em;
+    margin-top: 50px;
+}
+
+
+
+
+}
