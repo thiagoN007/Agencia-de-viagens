@@ -217,6 +217,21 @@ h5 {
     text-align: center;
 }
 
+
+.viagens {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #1c99e0;
+}
+
+.melhores-precos {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: #1c99e0;
+}
+
 table {
     border-collapse:collapse;
     width: 90%;

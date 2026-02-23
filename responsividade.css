@@ -16,12 +16,12 @@ main{
     padding: 0 10px;
     margin: 0 auto;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 13px;
     transition: 0.5s ease;
 }
 
 .logo h2 {
-    font-size: 16px;
+    font-size: 13px;
 }
 
 
